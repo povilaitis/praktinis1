@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>0</id>
+    <firstName>john</firstName>
+    <lastName>johnson</lastName>
+    <membership>
+        <id>0</id>
+        <plan>
+            <equipment>
+                <description>legs</description>
+                <name>machine</name>
+            </equipment>
+            <exercise>squat</exercise>
+            <id>0</id>
+            <repetitions>12</repetitions>
+            <sets>3</sets>
+        </plan>
+    </membership>
+    <trainer>
+        <firstName>rob</firstName>
+        <lastName>robinson</lastName>
+    </trainer>
+</user>
